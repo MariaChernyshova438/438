@@ -1,0 +1,13 @@
+.my-btn {
+    padding-left: 20px;
+    padding-right: 20px;
+
+    background-color: indigo;
+    color: white;
+}
+.my-btn:hover {
+    color: white;
+    background-color: rgb(112, 2, 190);
+
+
+}
