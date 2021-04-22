@@ -11,3 +11,31 @@
 
 
 }
+
+.row div {
+    min-height: 100px;
+}
+
+.block-1 {
+    background-color: gray;
+}
+
+.block-2 {
+    background-color: gold;
+}
+
+.block-3 {
+    background-color: green;
+}
+
+.block-4 {
+    background-color: violet;
+}
+
+.block-5 {
+    background-color: darkred;
+}
+
+.block-6 {
+    background-color: darkblue;
+}
